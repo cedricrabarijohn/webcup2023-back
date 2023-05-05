@@ -1,0 +1,21 @@
+{
+  "questions": [
+    "hi how are you ?",
+    "hi how are you doing ?",
+    "hi, how do you do ?",
+    "hello how are you ?",
+    "hello how are you doing ?",
+    "hello, how do you do ?",
+    "hey how are you ?",
+    "hey how are you doing ?",
+    "hey, how do you do ?"
+  ],
+  "answers": [
+    "Hello, I'm fine thanks ! What about you ?",
+    "Hi, I'm fine thanks ! How are you ?",
+    "Hello there, I'm fine thanks ! And you ?",
+    "Hi there, I'm fine thanks ! What about you ?",
+    "Hello, I'm doing great ! How are you ?",
+    "Hello, I'm fine thanks ! And you ?"
+  ]
+}

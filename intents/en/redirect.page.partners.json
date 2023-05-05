@@ -1,0 +1,8 @@
+{
+    "questions": [
+      "redirect me to partners page",
+      "redirect me to partners"
+    ],
+    "answers": ["{\"redirect\": \"/user/partenaire\",\"redirect_page_title\":\"Partners\"}"]
+  }
+  

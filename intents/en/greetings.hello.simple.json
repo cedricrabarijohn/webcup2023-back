@@ -1,0 +1,20 @@
+{
+  "questions": [
+    "hello",
+    "hi",
+    "howdy",
+    "Greetings",
+    "hey",
+    "hey there",
+    "what's up",
+    "yo",
+    "hello again"
+  ],
+  "answers": [
+    "Hey there! What can I do for you ?",
+    "Hello ! Let me know if I can help you !",
+    "Hi, what can I do to help you ?",
+    "Greetings ! Do you need any help ?",
+    "Hello again! What can I do for you ?"
+  ]
+}

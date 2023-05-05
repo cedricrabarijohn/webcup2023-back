@@ -1,0 +1,20 @@
+{
+  "answers": [
+      "Salut! Que puis-je faire pour vous ?",
+      "Bonjour ! Faites-moi savoir si je peux vous aider !",
+      "Salut, que puis-je faire pour vous aider ?",
+      "Salutations ! Avez-vous besoin d'aide ?",
+      "Bonjour à nouveau ! Que puis-je faire pour vous ?"
+  ],
+  "questions": [
+      "bonjour",
+      "salut",
+      "bonjour",
+      "Salutations",
+      "hé",
+      "hé là-bas",
+      "quoi de neuf",
+      "yo",
+      "bonjour à nouveau"
+  ]
+}

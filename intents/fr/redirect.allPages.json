@@ -1,0 +1,12 @@
+{
+    "questions": [
+        "Montrez-moi une liste de pages",
+        "Quelles sont les pages disponibles",
+        "Dites-moi la liste des pages disponibles sur ce site",
+        "Quelles sont les pages disponibles ?",
+        "Donnez-moi une liste de toutes les pages"
+    ],
+    "answers": [
+        "Les pages disponibles sont : produit, service, partenaires, paiement , profile"
+    ]
+}

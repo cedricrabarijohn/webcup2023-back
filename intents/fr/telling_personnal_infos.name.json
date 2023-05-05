@@ -1,0 +1,18 @@
+{
+  "answers": [
+    "Ravi de vous rencontrer ! Je m'appelle [bot_name] et je suis votre assistant vocal.",
+    "Ravi de vous connaître ! Je suis [bot_name]."
+  ],
+  "questions": [
+    "Je m'appelle [nom]",
+    "Je suis [nom]",
+    "Je suis [nom]",
+    "Les gens m'appellent [nom]",
+    "Je m'appelle [Cédric]",
+    "Je m'appelle [Cédric]",
+    "Je' m [nom]. ravi de vous rencontrer",
+    "Je suis [nom]. content de vous connaître",
+    "Je m'appelle [nom]. ravi de vous rencontrer",
+    "Je m'appelle [nom]. ravi de vous rencontrer"
+  ]
+}

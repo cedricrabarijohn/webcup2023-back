@@ -1,0 +1,15 @@
+{
+    "questions":[
+        "",
+        "who is",
+        "what is",
+        "how are",
+        "how is",
+        "where is",
+        "show",
+        "where are you"
+    ],
+    "answers":[
+        "Sorry but I don't understand you question. Provide me more context."
+    ]
+}

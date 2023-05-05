@@ -1,0 +1,21 @@
+{
+  "answers": [
+    "Bonjour, je vais bien merci ! Et vous ?",
+    "Salut, je vais bien merci ! Comment vas-tu ?",
+    "Bonjour, je vais bien merci ! Et vous ?",
+    "Salut, je vais bien merci ! Et vous ?",
+    "Bonjour, je vais très bien ! Comment vas-tu ?",
+    "Bonjour, je vais bien merci ! Et toi ?"
+  ],
+  "questions": [
+    "salut comment vas-tu ?",
+    "salut comment vas-tu ?",
+    "salut, comment vas-tu ?",
+    "bonjour comment vas-tu ?",
+    "bonjour comment vas-tu ?",
+    "bonjour, comment vas-tu ?",
+    "salut comment vas-tu ça va ?",
+    "hey comment vas-tu ?",
+    "hey, comment vas-tu ?"
+  ]
+}

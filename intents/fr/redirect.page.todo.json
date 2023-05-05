@@ -1,0 +1,8 @@
+{
+  "questions": [
+    "redirige-moi vers la liste de tâches",
+    "redirige-moi vers le todo list",
+    "redirige-moi vers le todo"
+  ],
+  "answers": ["{\"redirect\": \"/apps/todo\", \"redirect_page_title\":\"Todo list\"}"]
+}

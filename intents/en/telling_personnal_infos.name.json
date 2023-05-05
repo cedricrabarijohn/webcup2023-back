@@ -1,0 +1,18 @@
+{
+    "questions":[
+        "My name is [name]",
+        "I'm [name]",
+        "I am [name]",
+        "People call me [name]",
+        "I am called [Cedric]",
+        "I'm called [Cedric]",
+        "I'm [name]. glad to meet you",
+        "I'm [name]. glad to know you",
+        "My name is [name]. glad to meet you",
+        "My name is [name]. nice to meet you"
+    ],
+    "answers":[
+        "Nice to meet you ! My name is [bot_name] and I'm your vocal assistant.",
+        "Glad to know you ! I'm [bot_name]."
+    ]
+}

@@ -1,0 +1,13 @@
+{
+  "questions": [
+    "Redirige moi vers la page des produits",
+    "Redirige vers produits",
+    "Redirige vers produit",
+    "Redirige moi vers la page des produits et services",
+    "Redirige moi vers la page des services",
+    "Conduits moi vers la page des produits"
+  ],
+  "answers": [
+    "{\"redirect\": \"/apps/ecommerce/shop\",\"redirect_page_title\":\"Produits et services\"}"
+  ]
+}

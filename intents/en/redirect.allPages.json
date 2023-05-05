@@ -1,0 +1,12 @@
+{
+    "questions":[
+        "Show me a page list",
+        "What are the available pages",
+        "Tell me the list of available pages in this website",
+        "What are the pages available ?",
+        "Give me a list of all the pages"
+    ],
+    "answers":[
+        "The available pages are : todo list , calendar, produit, service, partenaires, payment, profile"
+    ]
+}
